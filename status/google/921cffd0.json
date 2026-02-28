@@ -3,8 +3,11 @@
   "provider": "google",
   "request_id": "921cffd0",
   "started_at": "2026-02-28T22:13:39.421414+00:00",
-  "finished_at": null,
-  "status": "running",
+  "finished_at": "2026-02-28T22:14:05.130223+00:00",
+  "status": "success",
   "error": null,
-  "result": null
+  "result": {
+    "kind": "xlsx",
+    "path": "results/google/921cffd0.xlsx"
+  }
 }
