@@ -3,8 +3,11 @@
   "provider": "google",
   "request_id": "d1f43eb8",
   "started_at": "2026-02-28T17:58:47.286218+00:00",
-  "finished_at": null,
-  "status": "running",
-  "error": null,
+  "finished_at": "2026-02-28T17:58:59.560710+00:00",
+  "status": "failed",
+  "error": {
+    "type": "TypeError",
+    "message": "Object of type PipelineResponse is not JSON serializable"
+  },
   "result": null
 }
