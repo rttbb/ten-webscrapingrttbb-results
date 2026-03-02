@@ -3,8 +3,11 @@
   "provider": "google",
   "request_id": "3f2ab98f",
   "started_at": "2026-03-02T14:51:03.395388+00:00",
-  "finished_at": null,
-  "status": "running",
+  "finished_at": "2026-03-02T14:52:19.753006+00:00",
+  "status": "success",
   "error": null,
-  "result": null
+  "result": {
+    "kind": "json",
+    "path": "results/google/3f2ab98f.json"
+  }
 }
