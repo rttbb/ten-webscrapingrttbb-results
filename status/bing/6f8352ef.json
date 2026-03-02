@@ -3,8 +3,11 @@
   "provider": "bing",
   "request_id": "6f8352ef",
   "started_at": "2026-03-02T03:46:28.400648+00:00",
-  "finished_at": null,
-  "status": "running",
+  "finished_at": "2026-03-02T03:46:35.497803+00:00",
+  "status": "success",
   "error": null,
-  "result": null
+  "result": {
+    "kind": "xlsx",
+    "path": "results/bing/6f8352ef.xlsx"
+  }
 }
