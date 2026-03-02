@@ -3,8 +3,11 @@
   "provider": "bing",
   "request_id": "a8bfc017",
   "started_at": "2026-03-02T13:18:36.572332+00:00",
-  "finished_at": null,
-  "status": "running",
+  "finished_at": "2026-03-02T13:23:08.643158+00:00",
+  "status": "success",
   "error": null,
-  "result": null
+  "result": {
+    "kind": "json",
+    "path": "results/bing/a8bfc017.json"
+  }
 }
