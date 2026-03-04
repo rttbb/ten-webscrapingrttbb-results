@@ -1,0 +1,47 @@
+{
+  "good": [],
+  "junk": [],
+  "stats": {
+    "request_id": "5c900d68-af05-4ac9-ae3e-8ab3125429bf",
+    "source": "google",
+    "keywords_count": 33,
+    "sites_count": 24,
+    "period": "7d",
+    "language": "pt-BR",
+    "output_format": "json",
+    "counts": {
+      "scraped_total": 0,
+      "deduplicated_removed": 0,
+      "time_filtered_removed": 0,
+      "after_preprocess_total": 0,
+      "agent_input_total": 0,
+      "agent_good_total": 0,
+      "agent_junk_total": 0,
+      "agent_chunks_total": 0,
+      "content_requested_total": 0,
+      "content_success_total": 0,
+      "content_empty_total": 0,
+      "content_failed_total": 0,
+      "images_captured_total": 0
+    },
+    "timings": [
+      {
+        "stage": "scraping",
+        "duration_seconds": 80.7730441428721
+      },
+      {
+        "stage": "normalization",
+        "duration_seconds": 3.1159259378910065e-05
+      },
+      {
+        "stage": "dedupe",
+        "duration_seconds": 8.570961654186249e-06
+      },
+      {
+        "stage": "timeline_filter",
+        "duration_seconds": 3.943406045436859e-05
+      }
+    ],
+    "total_duration_seconds": 80.77398783061653
+  }
+}
